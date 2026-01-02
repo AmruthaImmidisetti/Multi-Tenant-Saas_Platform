@@ -92,7 +92,7 @@ After starting the application:
 
 ---
 
-## 🔐 Test Login Credentials (For Evaluators)
+## Test Login Credentials (For Evaluators)
 
 Use the following **pre-seeded credentials** to log in and test the application.
 
@@ -142,7 +142,7 @@ A complete demo video showcasing:
 
 ---
 
-## 📌 Notes for Evaluators
+## Notes for Evaluators
 
 * The application is fully dockerized
 * All services start with `docker-compose up -d`
