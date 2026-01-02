@@ -130,6 +130,18 @@ A complete demo video showcasing:
 
 ---
 
+##  Core Features
+
+* Tenant registration & login
+* User management (RBAC enforced)
+* Project management
+* Task management
+* Secure JWT authentication
+* Multi-tenant data isolation
+* Fully dockerized setup
+
+---
+
 ## 📌 Notes for Evaluators
 
 * The application is fully dockerized
