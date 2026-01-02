@@ -112,7 +112,7 @@ A complete demo video showcasing:
 * Multi-tenancy
 * User, project, and task flows
 
-👉 **YouTube link will be added here.**
+👉 https://drive.google.com/file/d/1wACEsBJnu0hXZdjkCG9EV51ED_ldU3ZZ/view?usp=sharing
 
 ---
 
