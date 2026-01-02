@@ -77,17 +77,6 @@ Each tenant’s data is completely isolated from other tenants.
 
 ---
 
-##  Core Features
-
-* Tenant registration & login
-* User management (RBAC enforced)
-* Project management
-* Task management
-* Secure JWT authentication
-* Multi-tenant data isolation
-* Fully dockerized setup
-
----
 
 ##  Testing the Application
 
