@@ -103,6 +103,31 @@ After starting the application:
 
 ---
 
+## 🔐 Test Login Credentials (For Evaluators)
+
+Use the following **pre-seeded credentials** to log in and test the application.
+
+### Tenant Admin Login
+- **Email:** admin@acme.com  
+- **Password:** Admin@123  
+- **Tenant Subdomain:** acme  
+
+### How to Login
+1. Open: http://localhost:3000/login  
+2. Enter the above credentials  
+3. Click **Login**  
+4. You will be redirected to the dashboard  
+
+These credentials allow full access to:
+- User management
+- Project creation
+- Task management
+- Tenant-level administration
+
+⚠️ These credentials are also documented in `submission.json` for automated evaluation.
+
+---
+
 ##  Demo Video
 
 A complete demo video showcasing:
